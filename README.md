@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-I am a Data Analyst from Russia.
+My name is Anna Sledneva. I am a Data Analyst from Russia.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
